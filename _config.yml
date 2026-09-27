@@ -1,13 +1,13 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Jonas Hofer | Software Developer & Solution Architect
+description: Software developer and solution architect focused on .NET, Azure, React, Dynamics 365, domain-driven design and AI-assisted development.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Jonas Hofer
-user_description: user_description
-user_title: Software Developer
+user_description: I design and build business software on the Microsoft stack, from the domain model down to the cloud infrastructure. Lately I spend much of my time on agentic, spec-driven development with AI.
+user_title: Software Developer & Solution Architect
 email: jonas.hofer@outlook.com
 twitter_username: null
 github_username:  jhofer
