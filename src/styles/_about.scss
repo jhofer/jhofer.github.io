@@ -8,7 +8,11 @@
 }
 
 .tech {
+  flex: 1 1 220px;
   margin: 10px;
+  h2 {
+    font-size: 1.6rem;
+  }
 }
 
 .user {
@@ -31,8 +35,24 @@
   text-align: center;
   margin: 5px auto;
 }
-.tech-icon {
-  height: 0.85em;
-  width: auto;
-  vertical-align: -0.05em;
+.tech-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.15em;
+  height: 1.2em;
+  i, img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1.2em;
+    height: 1.2em;
+  }
+  i {
+    font-size: 0.9em;
+  }
+  img {
+    box-sizing: border-box;
+    padding: 0.12em;
+  }
 }
